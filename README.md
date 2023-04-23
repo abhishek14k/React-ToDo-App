@@ -1,6 +1,6 @@
 # Live Project Link:
 
-This project is live on gh pages (https://abhishek14k.github.io/React-ToDo-App/).
+This project is live on gh pages [React-To-Do-App](https://abhishek14k.github.io/React-ToDo-App/).
 
 # Getting Started with Create React App
 
